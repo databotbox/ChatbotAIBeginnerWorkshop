@@ -10,6 +10,4 @@ def clean_it(original_string, clean_word='****'):
     r = re.compile(exp, re.IGNORECASE)
     return r.sub(clean_word, original_string)
 
-if __name__ == '__main__':
-	
-	print clean_it('she is such a slut', clean_word='unicorn')
+if __name__ == '__main__'
