@@ -1,4 +1,4 @@
-# Chatbot AI Beginner Workshop
+# Chatbot AI Beginner Workshop with Data Bot Box and Bitfusion!
 
 Welcome to our repository!
 
