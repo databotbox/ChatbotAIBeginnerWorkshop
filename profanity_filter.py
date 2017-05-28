@@ -15,7 +15,4 @@ class Filter(object):
         r = re.compile(exp, re.IGNORECASE)
         return r.sub(self.clean_word, self.original_string)
 
-if __name__ == '__main__':
-    f = Filter('she is such a slut', clean_word='unicorn')
-    print f
-    #print word
+if __name__ == '__main__'
