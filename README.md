@@ -13,8 +13,8 @@ Specifically for this workshop we suggest that you first read through and do the
 English to French dialog based translator with Tensorflow: [Tensorflow Seq-2-Seq Tutorial](https://www.tensorflow.org/tutorials/seq2seq)  
 Practical Seq-to-Seq chatbot based upon twitter data here: [Suryia's Practicial Seq-2-Seq Chatbot](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/ ) 
 
-Your 'homework' assignments are listed below.  The second assignment, a Snarky Reddit Chatbot, is the same as Stanford University homework assignment found here: [Stanford Course Homework Slides](http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf) lines and obtain the correct or a correct movie dialog response!
-2)   to make a chatbot that runs off of Reddit data.  We have provided a 'naughty word' filter and code for your convenience so you can make your bot PG-13.
+Your 'homework' assignments are listed below.  The second assignment, a Snarky Reddit Chatbot, is the same as Stanford University homework assignment found here: [Stanford Course Homework Slides](http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf).  Our second homework assignment is to take the Cornell movie dialog corpus with has movie dialog lines.  The assignment is to make a generative dialot or narrative bot that can obtain the correct or an correct movie dialog response!  This is a funny 'game' chatbot.
+To help you make a chatbot that runs off of Reddit data and the dialog corpus, we have provided a 'naughty word' filter and code for your convenience so you can make your bots PG-13.
 
 Just for fun, here's a video of Cookie Monster's 'Shower Thoughts' [Cookie Monster Shower Thoughts](https://youtu.be/wBNJ0BH3Dgs) Dataset May 2015](ww.kaggle.com/reddit/reddit-comments-may-2015) which is what your Reddit chatbot uses for training data.  We will also upload a sub-reddit dataset from May of 2015 that lists only Shower Thoughts dialog.
 
